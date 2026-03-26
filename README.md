@@ -2,6 +2,6 @@
 Computer Vision Engineer | TensorFlow · OpenCV · YOLOv8
 
 🔭 I build deep learning models for image classification and object detection  
-🌍 Based in Egypt · Open to relocation (Germany, UAE)  
+🌍 Based in Egypt · planing to relocation (Germany)  
 📫 ali.7assan010@gmail.com
 🔗 www.linkedin.com/in/ali-mohamed-92b877136
